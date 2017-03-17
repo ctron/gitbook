@@ -17,6 +17,7 @@ Contributors
 
 - Nijiko Yonskai (@Nijikokun)
 - Herman Starikov (@Hermanya)
+- Jackson Westeen (@obogobo)
 
 Translators
 ------------
